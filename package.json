@@ -1,0 +1,17 @@
+{
+  "name": "hr-app",
+  "version": "1.0.0",
+  "description": "a simple hr app",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Justin McDonald",
+  "license": "ISC",
+  "dependencies": {
+    "colors": "^1.4.0"
+  }
+}
