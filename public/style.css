@@ -1,0 +1,29 @@
+body {
+  background-color: lightcoral;
+  font-family: Arial, Helvetica, sans-serif;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  align-items: center;
+  height: 100vh;
+}
+
+.carrot {
+  margin-top: auto;
+  animation: rotate 3s infinite alternate ease-in-out ;
+}
+
+@keyframes rotate {
+  0% {
+    transform: rotate(270deg);
+  }
+
+  /* 25% {
+    transform: rotate(90deg);
+  } */
+
+  100% {
+    transform: rotate(360deg);
+  }
+  
+}

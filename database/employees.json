@@ -24,5 +24,18 @@
       "state": "PA",
       "zip": 15222
     }
+  },
+  {
+    "id": "1000004",
+    "name": {
+      "first": "Justin",
+      "last": "McDonald"
+    },
+    "address": {
+      "lines": ["8008 Bespoke Rd"],
+      "city": "Grenwich",
+      "state": "CA",
+      "zip": 10635
+    }
   }
 ]
