@@ -12,6 +12,7 @@
   "author": "Justin McDonald",
   "license": "ISC",
   "dependencies": {
-    "colors": "^1.4.0"
+    "colors": "^1.4.0",
+    "mongoose": "^8.4.0"
   }
 }
